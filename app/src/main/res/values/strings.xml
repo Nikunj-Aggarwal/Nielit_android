@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Nielit Delhi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hello User</string>
+    <string name="nav_header_subtitle">Login/Register</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_centres">Centres</string>
+    <string name="menu_course">Course</string>
+    <string name="menu_feecharter">Fee Charter</string>
+    <string name="menu_teachers_information">Teachers Information</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_Contct_us">Contact Us</string>
+    <string name="menu_notification">Notifications</string>
+    <string name="title_activity_centers">Centers</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_contact_us">ContactUs</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="title_activity_teachers">Teachers</string>
+    <string name="title_activity_zone_wise">zone_wise</string>
+    <string name="about_us_data">NIELIT, New Delhi was setup in March 2000. It is a professionally managed Centre with a proven track record. It is an
+        IT corporate with clear-cut strategies and its various operations are aimed at giving its customers a total package of IT solutions and products.
+        It has proven its capability of providing quality Computer Education and handling large projects of Govt. Organizations in different sectors. The
+        Centre was initially worked as Branch Office of NIELIT, Chandigarh Centre. It has become an independent Centre of NIELIT since 1st November, 2012
+        after jurisdiction of Centres. The centre has accomplished many feats in executing various turnkey IT Projects which involved the computerization of
+        many Hospitals and various Government offices of Delhi Govt., PSU and Autonomous bodies of Govt. of India. Preparation of IT Plan has also been
+        undertaken for many Offices of the Delhi Government.
+    Training, Computerization, IT Planning, Website Development and Web Application Development have been our major thrust areas where
+        we have excelled as a Centre and have braced a name for itself.The Centre imparts training on DOEACC O/A/B Level courses. In addition, it also offers
+        various short and long terms computer courses for all categories of students and professionals.
+
+The Centre is fully geared to meet the new challenges in IT and to become a front-runner in new technologies. We ensure cost-effective, time-to-market solutions
+        through a highly motivated skilled workforce driven by strong design principles, highest levels of quality and ethical business practices. We constantly
+        endeavour to delight our customers through excellence in service delivery.
+
+Prime objective of NIELIT Centre, Delhi is to create skilled manpower in the areas of Electronics, Computer Science, Information Technology and other related
+        disciplines for making available industry ready professionals as well as to promote e-learning.</string>
+    <string name="title_activity_nsqf">nsqf</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_our_team">OurTeam</string>
+</resources>

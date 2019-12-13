@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_centres"
+
+            android:title="@string/menu_centres" />
+
+        <item
+            android:id="@+id/nav_courses"
+
+            android:title="Courses" />
+
+        <item
+            android:id="@+id/nav_shortTerm"
+
+            android:title="--> Short Term Courses" />
+
+        <item
+            android:id="@+id/nav_longTerm"
+
+            android:title="--> Long Term Courses" />
+
+        <item
+            android:id="@+id/nav_summerTraining"
+
+            android:title="--> Summer Training" />
+
+        <item
+            android:id="@+id/nav_shortTraining"
+
+            android:title="--> Short Term Project Training" />
+
+        <item
+            android:id="@+id/nav_longTraining"
+
+            android:title="--> Long Term Project Training" />
+
+        <item
+            android:id="@+id/nav_nsqf"
+
+            android:title="--> NSQF Aligned Courses" />
+
+        <item
+            android:id="@+id/nav_register"
+
+            android:title="Register For a Course" />
+
+        <item
+            android:id="@+id/nav_our_team"
+
+            android:title="Our Team" />
+
+
+
+        <item
+            android:id="@+id/nav_about_us"
+
+            android:title="About Us" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_contactus"
+
+                android:title="@string/menu_Contct_us" />
+            <item
+                android:id="@+id/nav_feedback"
+
+                android:title="@string/menu_feedback" />
+
+        </menu>
+    </item>
+
+</menu>
